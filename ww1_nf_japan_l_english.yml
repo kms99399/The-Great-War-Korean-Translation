@@ -179,7 +179,7 @@ JAP_ww1_extra_tech_slot_2_desc:0 "" #KAISER_ANONY
  # [EMPIRE OF JAPAN] Naval Effort
  #=========================================================================
  JAP_ww1_naval_effort:0 "러일 전쟁의 유산"
- JAP_ww1_naval_effort_desc:0 "In 1904, Japan honorably defended the home islands from Russian aggression, and defeated their empire in one of the greatest upsets in the history of warfare. If we continue to expand and develop our navy, there is no doubt that we will achieve dominance in the Pacific."
+ JAP_ww1_naval_effort_desc:0 "1904 년에 일본은 러시아의 침략으로부터 고향을 명예롭게 보호했으며, 전쟁 역사상 가장 위대한 혼란 가운데 하나에서 제국을 격퇴했습니다. 우리가 계속하여 해군을 확장하고 개발한다면 우리가 태평양에서 우위를 점할 것이라는 데 의심의 여지가 없습니다."
 
  JAP_ww1_newnavalcanons_1:0 "함포 개발"
  JAP_ww1_newnavalcanons_1_desc:0 "" #KAISER_ANONY
@@ -229,10 +229,10 @@ JAP_ww1_extra_tech_slot_2_desc:0 "" #KAISER_ANONY
   JAP_ww1_political_effort_desc:0 "" #KAISER_ANONY
 
  JAP_ww1_support_republic:0 "부국 강병"
- JAP_ww1_support_republic_desc:0 "Emperor Meiji overthrew the Shogun and began to steer our empire in a new direction, away from isolationism and to exercizing its might as a world power. What sort of nation would we be to turn our back on this move now? By continuing in this direction, Japan's place in the world would be solidified."
+ JAP_ww1_support_republic_desc:0 "메이지 천황은 쇼군을 무너뜨렸으며, 고립주의에서 벗어나 세계 권력으로서의 힘을 발휘하여 새로운 방향으로 우리 제국을 조종하기 시작했습니다. 지금 이 움직임을 외면할 국가가 어디 있겠습니까? 이 방향으로 나아가면서 일본의 세계는 확고해질 것입니다."
 
  JAP_ww1_contest_republic:0 "민주주의 선전"
- JAP_ww1_contest_republic_desc:0 "Japan is a monarchy, but it supports a wide base of people who need placating. By establishing a few democratic reforms, we can keep the people content without giving up a huge share of the power of the government."
+ JAP_ww1_contest_republic_desc:0 "일본은 군주국이지만, 회유가 필요한 많은 사람들을 지지합니다. 몇 가지 민주적 개혁을 확립함으로써 막대한 정부 권력의 몫을 포기하지 않고 국민을 만족시킬 수 있습니다."
 
  JAP_ww1_internationalism_focus:0 "국제주의 중점"
  JAP_ww1_internationalism_focus_desc:0 "" #KAISER_ANONY
@@ -274,7 +274,7 @@ JAP_ww1_extra_tech_slot_2_desc:0 "" #KAISER_ANONY
  JAP_ww1_reorganization_act_desc:0 "" #KAISER_ANONY
 
  JAP_ww1_free_Korea:0 "한국 민족자결주의"
- JAP_ww1_free_Korea_desc:0 "Korea is of no use to Japan! Let them leave, and never return to soil our banner!"
+ JAP_ww1_free_Korea_desc:0 "한국은 일본에 아무 소용이 없습니다! 그들이 떠나게 하고, 다시는 우리의 깃발을 더럽히지 못하게 할 것입니다!"
 
  JAP_ww1_limited_rearmament:0 "제한적인 재무장"
  JAP_ww1_limited_rearmament_desc:0 "" #KAISER_ANONY
@@ -298,10 +298,10 @@ JAP_ww1_extra_tech_slot_2_desc:0 "" #KAISER_ANONY
  JAP_ww1_install_democracy_desc:0 "" #KAISER_ANONY
 
  JAP_ww1_fascist_coup:0 "군부에 권력을 넘겨주다"
- JAP_ww1_fascist_coup_desc:0 "The Japanese military has taken keen notice of Europe's fascism. They believe that adopting it, to at least an official degree, will keep our people in line, and more importantly, working for the glory of Japan!"
+ JAP_ww1_fascist_coup_desc:0 "일본군은 유럽의 파시즘에 촉각을 곤두세웠습니다. 그들은 적어도 공식적인 정도까지 파시즘을 채택하는 것이 우리 국민들을 동조하게끔 하고, 더 중요하게는 일본의 영광을 위해 일하게 될 것이라고 믿습니다!"
 
  JAP_ww1_oppression_minorities:0 "소수민족 억압"
- JAP_ww1_oppression_minorities_desc:0 "Japan is a nation of many minorities. If we make sure that none of them get too far ahead in their localities or the government, aside from those completely loyal to our empire, and ban publications aside from those in Japanese, we can ensure we never have to deal with nationalistic rebellions."
+ JAP_ww1_oppression_minorities_desc:0 "일본은 많은 소수민족들의 나라입니다. 소수민족들 중 우리 제국에 완전히 충성하는 자 외에는 어느 누구도 자신의 지방이나 정부에 너무 앞서가지 못하도록 하고, 일본어가 아닌 출판물을 금지한다면 우리는 민족주의적인 반란을 결코 상대할 필요가 없다는 것을 확신할 수 있을 것입니다."
 
  #--------------------------------------------------------------
 
@@ -313,22 +313,22 @@ JAP_ww1_diplomatic_effort:0 "외교 주력"
 JAP_ww1_diplomatic_effort_desc:0 "" #KAISER_ANONY
 
 JAP_ww1_assert_position_pacific:0 "태평양 권리주장"
-JAP_ww1_assert_position_pacific_desc:0 "While the Pacific is rightfully ordained Japanese territory, there are technically enough islands to share with our so-called friends, for now. Japan's first focus will be the islands of our regional rivals, which we must expand into, at any cost."
+JAP_ww1_assert_position_pacific_desc:0 "태평양의 일본 영토가 마땅히 정해지는 동안, 엄밀히 따지면 소위 말하는 '우리의 친구들'과 공유할 수 있는 섬이 충분히 있습니다. 일본의 첫 번째 목표는 어떤 대가를 치르더라도 우리가 확장해야 할 역내 경쟁국들의 섬이 될 것입니다."
 
 JAP_ww1_Support_USA:0 "미국과 관계 개선"
-JAP_ww1_Support_USA_desc:0 "The Americans are on-again off-again friends of Japan. Sometimes, we are mutual allies trying to keep peace and go against Europe, and sometimes we are bitter rivals fighting each other for pacific influence. Today, to ensure that Entente war plans don't fall apart, we shall be friends."
+JAP_ww1_Support_USA_desc:0 "미국인들은 일본의 변덕스러운 친구입니다. 때로는 평화를 유지하고 유럽에 대항하려는 상호 동맹이며, 때로는 태평양의 영향력을 위해 서로 싸우는 쓰라린 경쟁자이기도 합니다. 오늘, 동맹 전쟁 계획이 무너지지 않도록 우리는 친구가 될 것입니다."
 
 JAP_ww1_Support_Filipinos_Separatists:0 "필리핀 분리주의자들 지원"
-JAP_ww1_Support_Filipinos_Separatists_desc:0 "The Yankees are no friend to us, and seem unlikely to play any real part in the war effort. If we help to arm and organize the Filipino rebels, a Filipino government may throw off American shackles- one that answers to Japan first and foremost, helping our presence in the region. Though, this may hurt our relationship with the United States."
+JAP_ww1_Support_Filipinos_Separatists_desc:0 "양키들은 우리에게 친구가 아니며, 전쟁 활동에서 실질적인 역할을 할 것 같지 않습니다. 우리가 필리핀 반군을 무장하고 조직하는 데 도움을 준다면 필리핀 정부가 미국 족쇄를 벗어 던질지도 모르고, 그들은 일본에 가장 먼저 화답하여 이 지역에 우리의 주둔을 도울지도 모릅니다. 비록 이것이 미국과의 관계에 해를 끼칠 수도 있지만 말입니다."
 
 JAP_ww1_Diplomatic_Siam:0 "시암에 외교관 파견"
-JAP_ww1_Diplomatic_Siam_desc:0 "Siam is the only other independent, stable power in East or South-East Asia. They seem to be a natural ally, and it would be damned foolish for us not to try and make friends with them."
+JAP_ww1_Diplomatic_Siam_desc:0 "시암은 동아시아와 동남아시아에서 유일하게 독립적이고 안정적인 세력입니다. 그들은 타고난 우방인 것 같고, 우리가 그들과 친구가 되려고 하지 않는 것은 어리석은 짓일 것입니다.""
 
 JAP_ww1_ready_country:0 "전쟁 준비"
-JAP_ww1_ready_country_desc:0 "The tensions in Europe have reached a boiling point, to Japan's advantage. No matter who we face, we must first and foremost be ready to fight!"
+JAP_ww1_ready_country_desc:0 "유럽의 긴장도는 끓는점에 이르렀고, 일본은 유리한 고지에 있습니다. 무엇를 상대하든 우리는 누구보다도 전투 태세를 갖추어야 합니다!"
 
 JAP_ww1_defense_border:0 "일본 요새"
-JAP_ww1_defense_border_desc:0 "Japan is an island nation, which carries benefits and risks. The most dire risk being anyone who lands too close to the capital could simply oust our government, and our low landmass means that a few divisions may secure giant portions of our territory quickly. Japan must be unassailable, or it will not survive."
+JAP_ww1_defense_border_desc:0 "일본은 혜택과 위험이 공존하는 섬나라입니다. 수도 가까이에 상륙한 세력은 누구나 간단히 우리 정부를 축출할 수 있으며, 우리의 작은 땅덩어리는 몇 개의 사단으로도 우리 영토의 상당 부분을 빠르게 확보할 수 있다는 것을 의미합니다. 일본은 난공불락이여야 합니다. 그렇지 않으면 살아남지 못할 것입니다."
 
 JAP_ww1_Japan_Korea_Treaty:0 "한일 병합 조약"
 JAP_ww1_Japan_Korea_Treaty_desc:0 "Korea has been long a puppet state of our empire, but it would serve better as territory. If we force the puppet Emperor into an annexation agreement, we can knock it off the map in a fashion just seemingly diplomatic enough to keep Europe and the Americans off of our backs, which will establish our first territory on the Asian mainland."
