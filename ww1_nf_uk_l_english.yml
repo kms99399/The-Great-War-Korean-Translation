@@ -5,7 +5,7 @@
  # [BRITISH EMPIRE] Army Effort
  #=========================================================================
  ENG_ww1_army_effort:0 "영국 해외 원정군"
-ENG_ww1_army_effort_desc:0 "The luxury of having strong land allies, as we've well experienced, is having someone on the continent who can do our dirty work. That doesn't mean we can't still get some benefit from a stronger land military. Training our generals to respond to more global threats and fight in far-off fronts could pay off well in case of war."
+ENG_ww1_army_effort_desc:0 "우리가 경험했듯이, 육지에 강력한 동맹국을 갖는 것의 이점은 우리의 더러운 일을 할 수 있는 누군가를 대륙에 두고 있는다는 것입니다. 그러나 이것이 우리가 더 강한 육군을 갖는데 이점이 없다는 뜻은 아닙니다. 우리 장군들을 훈련시켜 더 많은 국제적 위협에 대응하고 먼 전선에서 싸우게 한다면, 전쟁이 일어났을 때 좋은 성과를 거둘 수 있을 것입니다."
 
 ENG_ww1_trenchwarfare:0 "참호전 중점"
 ENG_ww1_trenchwarfare_desc:0 "" #KAISER_ANONY
@@ -64,7 +64,7 @@ ENG_ww1_gasmask_focus_desc:0 "" #KAISER_ANONY
  # [BRITISH EMPIRE] 항공 개발
  #=========================================================================
  ENG_ww1_aviation_effort:0 "왕립 공군 연대"
-  ENG_ww1_aviation_effort_desc:0 "Military Aeroplanes are one of the most British inventions to ever come from outside of the United Kingdom. These devices, which will let us project power without foot soldiers, will no doubt increase our power on the field. They might even be a weapon worth using at sea, which has got the RN heads excited. Investing in them is an obvious move." 
+  ENG_ww1_aviation_effort_desc:0 "군사용 항공기는 영국 밖에서 발명된 것 중 가장 영국적인 발명품 중 하나입니다. 보병 없이 전력을 투사할 수 있게 해줄 이 장치들은 전장에서 우리의 전력을 증가시킬 것이 분명합니다. 비행기는 심지어 바다에서 사용할 가치가 있는 무기일지도 모르며, 이것이 왕립 해군의 수뇌부를 흥분시키고 있습니다. 비행기에 투자하는 것은 당연한 조치일 것입니다."
 
  ENG_ww1_fighter_focus:0 "전투기 중점"
  ENG_ww1_fighter_focus_desc:0 "" #KAISER_ANONY
@@ -178,7 +178,7 @@ ENG_ww1_extra_tech_slot_2_desc:0 "" #KAISER_ANONY
  # [BRITISH EMPIRE] Naval Effort
  #=========================================================================
  ENG_ww1_naval_effort:0 "왕립 해군 강화"
- ENG_ww1_naval_effort_desc:0 "The Royal Navy of the United Kingdom is the world's largest and strongest fleet, numbering as many ships as the next two navies combined. This is no accident- with our primary territory being on an island, it's necessary to maintain to ensure we survive a foreign invasion. Investing further into this operation can only lead to good."
+ ENG_ww1_naval_effort_desc:0 "영국 왕립해군은 세계에서 가장 크고 강력한 함대로, 다음으로 강력한 두 해군을 합친 수만큼 많은 함대를 헤아리고 있습니다. 이것은 우연이 아닙니다. 우리의 주요 영토는 섬에 있기 때문에 우리가 외국의 침략에서 살아남을 수 있도록 해군을 계속 유지할 필요가 있습니다. 이번 계획에 더 투자하는 것은 도움을 줄 것입니다."
 
  ENG_ww1_newnavalcanons_1:0 "함포 개발"
  ENG_ww1_newnavalcanons_1_desc:0 "" #KAISER_ANONY
@@ -228,7 +228,7 @@ ENG_ww1_extra_tech_slot_2_desc:0 "" #KAISER_ANONY
  ENG_ww1_political_effort_desc:0 "" #KAISER_ANONY
 
  ENG_ww1_support_republic:0 "의회 정치"
- ENG_ww1_support_republic_desc:0 "Our glorious Parliament and our most honored Royal Majesty are the perfect government for our nation. Supporting their stability and power in these turbulent times will ensure we don't fall into anarchy under a lesser form of leadership, and that our divinely ordained leadership continues."
+ ENG_ww1_support_republic_desc:0 "우리의 영광스러운 의회와 명예로운 국왕 폐하는 우리 나라에 완벽한 정부입니다. 이러한 격동의 시대에 그들의 안정과 권력을 지탱하는 것은 우리가 더 적은 지도력 하에서도 무정부 상태에 빠지지 않도록 보장하고, 거룩히 임명된 지도력이 계속되도록 할 것입니다."
 
  ENG_ww1_contest_republic:0 "생디칼리즘"
  ENG_ww1_contest_republic_desc:0 "The upper class and aristocrats, who have been entrenched in our nation since King Alfred's time, have set up a laughable pretense of democratic government. How can we trust a parliament of the rich and wealthy? It is time that the honest citizen and worker takes control of the British destiny!"
